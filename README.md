@@ -1,3 +1,3 @@
 # blog
 
-For get YOLO
+For get YOLO.
